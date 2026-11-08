@@ -1,0 +1,23 @@
+/* Theodore Smith - Week 2 Assignment - November 7, 2026 */
+
+body{
+    background-color: whitesmoke;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 4px solid black;
+    padding-bottom: 12px;
+}
+
+.table thead th{
+    background-color: #142c4b;
+    color: white;
+}
+
+.table th,
+.table td{
+    padding: 10px;
+}
